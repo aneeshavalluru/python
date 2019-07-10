@@ -1,2 +1,2 @@
 # python
-begginers
+beginners
